@@ -1,0 +1,12 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+header .navbar .dropdown-menu .dropdown-item:hover {
+    background: #3F729B;
+    color: #fff;
+}
